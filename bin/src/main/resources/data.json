@@ -1,0 +1,35 @@
+[
+	{
+	"productName":	"iphone 6",
+	species:	"smart-phone",
+	images:		"img1.jpg",
+	price:		10000,
+	amount:		100,
+	status:		"acitive",
+	isDelete:	"deleted",
+	brand:		"apple"
+
+	},
+	{
+	productName:	"iphone 6s",
+	species:	"smart-phone",
+	images:		"img12.jpg",
+	price:		20000,
+	amount:		100,
+	status:		"acitive",
+	isDelete:	"null",
+	brand:		"apple"
+
+	},
+	{
+	productName:	"iphone 7",
+	species:	"smart-phone",
+	images:		"img10.jpg",
+	price:		40000,
+	amount:		30,
+	status:		"acitive",
+	isDelete:	"null",
+	brand:		"apple"
+
+	}
+]

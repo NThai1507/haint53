@@ -12,7 +12,7 @@
     <artifactId>haint53</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>Mobile-Shop</name>
+    <name>haint53</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -58,9 +58,12 @@
                 <groupId>com.heroku.sdk</groupId>
                 <artifactId>heroku-maven-plugin</artifactId>
                 <configuration>
-                    <appName>Mobile-Shop</appName>
+                    <appName>haint53</appName>
                 </configuration>
             </plugin>
         </plugins>
+
+
     </build>
+
 </project>
